@@ -46,12 +46,3 @@ Contributions are welcome! To contribute:
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-If you have any questions, feel free to reach out:
-
-- **Email**: support@meditationapp.com
-- **Twitter**: [@meditationapp](https://twitter.com/meditationapp)
-
-Thank you for using the Meditation App! We hope it brings peace and tranquility to your daily routine.
